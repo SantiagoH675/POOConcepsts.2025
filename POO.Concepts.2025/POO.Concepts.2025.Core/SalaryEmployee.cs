@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace POO.Concepts._2025.Core;
 
-public class SalaryEmployee
+public class SalaryEmployee : Employee
 {
     private const decimal MINIMUM_SALARY = 1500000;
     private decimal _Salary;
@@ -15,6 +15,14 @@ public class SalaryEmployee
     { 
         get => _Salary;
         set => _Salary = ValidateSalary (value);
+    }
+
+    public override decimal GetValueToPay() => Salary;
+
+    public override string ToString()
+    {
+        return $"{base.ToString()}\n\t" +
+            $"Salary........: {GetValueToPay():C2}";
     }
     private decimal ValidateSalary (decimal salary)
     {
