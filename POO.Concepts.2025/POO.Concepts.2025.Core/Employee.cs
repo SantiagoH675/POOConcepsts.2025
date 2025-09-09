@@ -15,7 +15,7 @@ public abstract class Employee
     public override string ToString() =>
         $"{Id}\t{Firstname} {Lastname}\n\t" +
         $"Born date.....: {BornDate}\n\t" +
-        $"Hire date.....: {HireDate}\n\t";
+        $"Hire date.....: {HireDate}";
         
         
 }
