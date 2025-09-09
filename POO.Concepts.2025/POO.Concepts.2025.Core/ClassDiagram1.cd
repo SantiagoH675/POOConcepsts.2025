@@ -46,6 +46,14 @@
       <FileName>BaseCommisionEmployee.cs</FileName>
     </TypeIdentifier>
   </Class>
+  <Class Name="POO.Concepts._2025.Core.Invoice">
+    <Position X="6" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAQAgAAAEAAAAAAAAAAAAAAAIAAAAgAAAAAA=</HashCode>
+      <FileName>Invoice.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
   <Interface Name="POO.Concepts._2025.Core.Ipay">
     <Position X="3.5" Y="4" Width="1.5" />
     <TypeIdentifier>
