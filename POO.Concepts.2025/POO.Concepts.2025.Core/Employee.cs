@@ -1,7 +1,7 @@
 ﻿
 namespace POO.Concepts._2025.Core;
 
-public abstract class Employee
+public abstract class Employee : Ipay
 {
     public int Id { get; set; }
     public string Firstname { get; set; } = null!;

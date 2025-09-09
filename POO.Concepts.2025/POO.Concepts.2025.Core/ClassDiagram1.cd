@@ -27,6 +27,10 @@
       <HashCode>ABACAEAAAAAAAAAMEAAAAAAAACAAAAAIAAAAAAAAAAA=</HashCode>
       <FileName>Employee.cs</FileName>
     </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="BornDate" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
   </Class>
   <Class Name="POO.Concepts._2025.Core.CommisionEmployee">
     <Position X="10.5" Y="0.75" Width="1.5" />
@@ -42,5 +46,12 @@
       <FileName>BaseCommisionEmployee.cs</FileName>
     </TypeIdentifier>
   </Class>
+  <Interface Name="POO.Concepts._2025.Core.Ipay">
+    <Position X="3.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Ipay.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
   <Font Name="Segoe UI" Size="9" />
 </ClassDiagram>
