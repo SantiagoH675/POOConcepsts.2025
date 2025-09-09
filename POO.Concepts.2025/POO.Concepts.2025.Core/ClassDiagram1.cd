@@ -10,7 +10,7 @@
   <Class Name="POO.Concepts._2025.Core.HourlyEmployee">
     <Position X="3" Y="0.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AIAAAAAAAAQAAAAAAAwAAAAAAAABAAAIAAAAAAAAAAE=</HashCode>
+      <HashCode>AIAAAAAAAAQAAAAEAAwAAAAAAAABAAAIAAAAAAAAAAE=</HashCode>
       <FileName>HourlyEmployee.cs</FileName>
     </TypeIdentifier>
   </Class>
@@ -26,6 +26,20 @@
     <TypeIdentifier>
       <HashCode>ABACAEAAAAAAAAAMEAAAAAAAACAAAAAIAAAAAAAAAAA=</HashCode>
       <FileName>Employee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POO.Concepts._2025.Core.CommisionEmployee">
+    <Position X="10.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAIAAAAAAEAAAABAAAAIAQAAAIAAgAAAAAAAA=</HashCode>
+      <FileName>CommisionEmployee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POO.Concepts._2025.Core.BaseCommisionEmployee">
+    <Position X="10.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAACAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAQAAAA=</HashCode>
+      <FileName>BaseCommisionEmployee.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Font Name="Segoe UI" Size="9" />
